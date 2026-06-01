@@ -1,0 +1,23 @@
+"""
+WORKFLOW OF PROJECT
+1. Input from user=(rock,paper,scissor)
+2. Computer choice=(computer will choice randomly)
+3. print
+
+cases:
+A-rock
+rock - rock = tie
+rock - scissor = rock win
+rock = paper = paper win
+
+B-scissor
+scissor - scissor = tie
+scissor - rock = rock win
+scissor - paper = scissor win
+
+C-paper
+paper - paper = tie
+paper - scissor = scissor win
+paper - rock = paper win
+
+"""
